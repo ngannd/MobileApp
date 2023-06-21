@@ -16,7 +16,7 @@ function Login() {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     Submit = () => {
-        console.log(email + ' and ' + password);
+        console.log(email + ' and 456' + password);
     };
 
     return (
