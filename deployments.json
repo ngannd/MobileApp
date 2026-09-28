@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1790584599247,
+    "runId": "RUN-9247",
+    "app": "MobileApp",
+    "fullApp": "MobileApp",
+    "project": "MobileApp",
+    "branch": "master",
+    "environment": "w05.onedata.vn",
+    "env": "w05.onedata.vn",
+    "envClass": "prod",
+    "image": "ghcr.io/ngannd/mobileapp:20260928_153639",
+    "fullImage": "ghcr.io/ngannd/mobileapp:20260928_153639",
+    "services": [
+      "backend",
+      "frontend"
+    ],
+    "deploy": true,
+    "status": "success",
+    "statusText": "Thành công",
+    "time": "15:36:39",
+    "date": "28/9/2026",
+    "createdAt": "2026-09-28T08:36:39.247Z",
+    "githubUrl": "https://github.com/ngannd/MobileApp",
+    "githubFileUrl": "https://github.com/ngannd/MobileApp/blob/master/deployments.json",
+    "deployer": "ngannd"
+  }
+]
